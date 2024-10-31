@@ -8,6 +8,12 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         System.out.println("LAMBDA AND FUNCTIONAL INTERFACE EXAMPLES");
+        LambdaChallenges lc = new LambdaChallenges();
+        //lc.A();
+        //lc.B();
+        //lc.C();
+        lc.D();
+
 
 //        exampleA();
 //        exampleB();
